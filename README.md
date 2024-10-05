@@ -10,4 +10,4 @@
 
 ## ✨ Visitor count for this page
 
-![](https://moe-counter.glitch.me/get/@pzjawa.github.readme)
+![](https://count.kjchmc.cn/get/@pzjawa)
